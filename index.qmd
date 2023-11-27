@@ -1,0 +1,37 @@
+---
+title: "Mateus Maia"
+about:
+  template: trestles
+  image: profile_photo_cv.png
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/MateusMaiaM
+    - icon: github
+      text: Github
+      href: https://github.com/MateusMaiaDS
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=L3Wdf-8AAAAJ&hl=en
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/mateusmaiads/
+---
+
+# About me
+
+::: justify
+I am currently a Ph.D. candidate in Statistics at Maynooth University, specializing in the advancement of Bayesian Statistical Learning models, with a specific emphasis on extending Bayesian Additive Regression Trees (BART). I obtained my master degree in Statistics in February of 2020 at the Federal University of Bahia, Brazil, defending my dissertation entitled: "Random Machines: The Random Kernel Space for constructing a Support Vector Machine Enseble" where I proposed an innovative ensemble method utilizing support vector machines. I also hold an bachelor degree in Geophysics obtained in 2018 by the Federal University of Bahia, Brazil.
+:::
+
+## Education
+
+::: justify
+Maynooth University \| Maynooth, Ireland Ph.D in Statistics \| March 2020 - Currently
+
+::: justify
+Federal University of Bahia \| Salvador, Bahia Msc. in Statistics \| March 2018 - February 2020
+:::
+
+Federal University of Bahia \| Salvador, Bahia Bsc. in Geophysics \| March 2014 - February 2018
+:::
