@@ -35,7 +35,8 @@ My research interests span a broad spectrum within the field of statistics, enco
 -   Paz, H., **Maia, M.**, Moraes, F., Lustosa, R., Costa, L., Macêdo, S., & Ara, A. [Local processing of massive databases with R: a national analysis of a Brazilian social programme](https://doi.org/10.3390/stats3040028). Stats 3.4 (2020): 444-464.
 :::
 
-## Selected Presentations
+::: justify
+## Selected Presentations {.justify}
 
 -   **Oral presentation:** Mateus Maia**,** Keefe Murphy, and Andrew C. Parnell. [sBART: novel extension to Bayesian additive regression trees using splines](/presentations/casi_2023_correct_version_mateus_maia.pdf). Conference of Applied Statistics in Ireland (CASI) 2023 , Killaerney, Ireland.
 
@@ -44,3 +45,4 @@ My research interests span a broad spectrum within the field of statistics, enco
 -   **Oral presentation:** Mateus Maia, [2nd place at the Best Master Thesis Competition : "Random Machines - The Random Kernel Space for Constructing a Support Vector Ensemble"](presentation/sinape_contest). 24th SINAPE \| National Symposium on Probability and Statistics of Brazil organised by the Brazilian Association of Statistics. 2022. (PT-BR version).
 
 -   **Oral presentation**: Mateus Maia, Keefe Murphy, and Andrew C. Parnell. [A new Extension For Bayesian Additive Regression Trees Model Adopting Gaussian Processes](presentations/casi_slides2022). Conference of Applied Statistics in Ireland (CASI) 2022, Cork, Ireland.
+:::
