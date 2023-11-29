@@ -36,13 +36,13 @@ My research interests span a broad spectrum within the field of statistics, enco
 :::
 
 ::: justify
-## Selected Presentations {.justify}
+## Selected Presentations
 
--   **Oral presentation:** Mateus Maia**,** Keefe Murphy, and Andrew C. Parnell. [sBART: novel extension to Bayesian additive regression trees using splines](/presentations/casi_2023_correct_version_mateus_maia.pdf). Conference of Applied Statistics in Ireland (CASI) 2023 , Killaerney, Ireland.
+-   **Oral presentation:** Mateus Maia**,** Keefe Murphy, and Andrew C. Parnell. [sBART: novel extension to Bayesian additive regression trees using splines](/presentations/casi_2023_correct_version_mateus_maia.pdf){.justify}. Conference of Applied Statistics in Ireland (CASI) 2023 , Killaerney, Ireland.
 
--   **Poster presentation**: Mateus Maia, Keefe Murphy, and Andrew C. Parnell. 2023. [GP-BART: an extension to Bayesian additive regression trees approach using Gaussian processes](presentations/poster_bayescomp_v6). BayesComp, 2023 . Kittila, Finland.
+-   **Poster presentation**: Mateus Maia, Keefe Murphy, and Andrew C. Parnell. 2023. [GP-BART: an extension to Bayesian additive regression trees approach using Gaussian processes](presentations/poster_bayescomp_v6){.justify}. BayesComp, 2023 . Kittila, Finland.
 
--   **Oral presentation:** Mateus Maia, [2nd place at the Best Master Thesis Competition : "Random Machines - The Random Kernel Space for Constructing a Support Vector Ensemble"](presentation/sinape_contest). 24th SINAPE \| National Symposium on Probability and Statistics of Brazil organised by the Brazilian Association of Statistics. 2022. (PT-BR version).
+-   **Oral presentation:** Mateus Maia, [2nd place at the Best Master Thesis Competition : "Random Machines - The Random Kernel Space for Constructing a Support Vector Ensemble"](presentation/sinape_contest){.justify}. 24th SINAPE \| National Symposium on Probability and Statistics of Brazil organised by the Brazilian Association of Statistics. 2022. (PT-BR version).
 
--   **Oral presentation**: Mateus Maia, Keefe Murphy, and Andrew C. Parnell. [A new Extension For Bayesian Additive Regression Trees Model Adopting Gaussian Processes](presentations/casi_slides2022). Conference of Applied Statistics in Ireland (CASI) 2022, Cork, Ireland.
+-   **Oral presentation**: Mateus Maia, Keefe Murphy, and Andrew C. Parnell. [A new Extension For Bayesian Additive Regression Trees Model Adopting Gaussian Processes](presentations/casi_slides2022){.justify}. Conference of Applied Statistics in Ireland (CASI) 2022, Cork, Ireland.
 :::
