@@ -1,9 +1,6 @@
 ---
 title: "Research "
 editor: visual
-format: 
-  html: 
-    fontsize: 95%
 ---
 
 ### Research Interests
