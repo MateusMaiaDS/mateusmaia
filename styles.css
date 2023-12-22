@@ -1,6 +1,8 @@
 /* css styles */
+.body{ font-size:85%}
 .justify {
   text-align: justify !important
+  font-size: 75%;
 }
 
 .about-contents {
