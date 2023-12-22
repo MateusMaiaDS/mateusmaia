@@ -10,6 +10,8 @@ website:
         text: About
       - href: research.qmd
         text: Research
+      - href: software.qmd
+        text: Software
       - href: cv/mateusmaia_cv.pdf
         text: CV
 
