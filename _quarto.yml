@@ -13,7 +13,7 @@ website:
         text: Research
       - href: software.qmd
         text: Software
-      - href: cv/mateusmaia_cv.pdf
+      - href: mateusmaia_cv.pdf
         text: CV
 
 format:
