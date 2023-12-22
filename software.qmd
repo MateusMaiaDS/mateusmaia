@@ -6,7 +6,7 @@ editor: visual
 
 ## $\texttt{randomMachines::}$ {.justify style=".justify"}
 
-This R package, available on [CRAN](https://cran.r-project.org/web/) as the $\texttt{randomMachines}$ package, implements a novel ensemble method employing Support Vector Machines (SVMs) as base learners. This powerful ensemble model is designed for both classification [(Ara et al., 2021)](<doi:10.6339/21-JDS1014>) and regression [(Ara et al., 2021)]( doi:10.1016/j.eswa.2022.117107) problems, offering versatility and robust performance across different datasets compared with other consolidated methods, such as Random Forests ([Maia et al., 2021](doi:10.6339/21-JDS1025)) .
+This R package, available on [CRAN](https://cran.r-project.org/web/) as the $\texttt{randomMachines}$ package, implements a novel ensemble method employing Support Vector Machines (SVMs) as base learners. This powerful ensemble model is designed for both classification [(Ara et al., 2021)](doi:10.6339/21-JDS1014) and regression [(Ara et al., 2021)](doi:10.1016/j.eswa.2022.117107) problems, offering versatility and robust performance across different datasets compared with other consolidated methods, such as Random Forests ([Maia et al., 2021](doi:10.6339/21-JDS1025)) .
 
 To install it only need to run
 
