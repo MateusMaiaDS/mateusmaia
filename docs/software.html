@@ -168,10 +168,6 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
   <li><a href="#textttrandommachines" id="toc-textttrandommachines" class="nav-link" data-scroll-target="#textttrandommachines"><span class="math inline">\(\texttt{randomMachines::}\)</span></a></li>
   <li><a href="#textttgpbart" id="toc-textttgpbart" class="nav-link" data-scroll-target="#textttgpbart"><span class="math inline">\(\texttt{gpbart::}\)</span></a></li>
   </ul></li>
-  <li><a href="#r-shiny-applications" id="toc-r-shiny-applications" class="nav-link" data-scroll-target="#r-shiny-applications">R Shiny Applications</a>
-  <ul class="collapse">
-  <li><a href="#textttshinyelectionsproject" id="toc-textttshinyelectionsproject" class="nav-link" data-scroll-target="#textttshinyelectionsproject"><span class="math inline">\(\texttt{shiny::electionsproject()}\)</span></a></li>
-  </ul></li>
   </ul>
 </nav>
     </div>
@@ -184,22 +180,15 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <h1>R packages</h1>
 <section id="textttrandommachines" class="level2 justify" style=".justify">
 <h2 class="justify anchored" style=".justify" data-anchor-id="textttrandommachines"><span class="math inline">\(\texttt{randomMachines::}\)</span></h2>
-<p>This R package is available on <a href="https://cran.r-project.org/web/">CRAN</a> as <span class="math inline">\(\texttt{randomMachines}\)</span> package, which implements a novel ensemble method employing Support Vector Machines (SVMs) as base learners. This powerful ensemble model is designed for both classification (Ara A., et. al, 2021) &lt;<a href="https://doi.org/10.6339%2F21-JDS1014">doi:10.6339/21-JDS1014</a>&gt;, and regression (Ara A., et. al, 2021) &lt;<a href="https://doi.org/10.1016%2Fj.eswa.2022.117107">doi:10.1016/j.eswa.2022.117107</a>&gt; problems, offering versatility and robust performance across different datasets and compared with other consolidated methods as Random Forests (Maia M, et. al, 2021) &lt;<a href="https://doi.org/10.6339%2F21-JDS1025">doi:10.6339/21-JDS1025</a>&gt;.</p>
+<p>This R package, available on <a href="https://cran.r-project.org/web/">CRAN</a> as the <span class="math inline">\(\texttt{randomMachines}\)</span> package, implements a novel ensemble method employing Support Vector Machines (SVMs) as base learners. This powerful ensemble model is designed for both classification <a href="doi:10.6339/21-JDS1014">(Ara et al., 2021)</a> and regression <a href="doi:10.1016/j.eswa.2022.117107">(Ara et al., 2021)</a> problems, offering versatility and robust performance across different datasets compared with other consolidated methods, such as Random Forests (<a href="doi:10.6339/21-JDS1025">Maia et al., 2021</a>) .</p>
 <p>To install it only need to run</p>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">install.packages</span>(randomMachines)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </section>
 <section id="textttgpbart" class="level2">
 <h2 class="anchored" data-anchor-id="textttgpbart"><span class="math inline">\(\texttt{gpbart::}\)</span></h2>
-<p>A R implementation built on <span class="math inline">\(\texttt{C++}\)</span> and <span class="math inline">\(\texttt{Rcpp}\)</span> of the extension of Bayesian Additive Regression Trees using Gaussian Processes developed by myself, Keefe Murphy and Andrew Parnell. More details of the statistical model are presented in the paper entitled: “GP-BART: A novel Bayesian additive regression trees approach using Gaussian processes” publisehd at the Computational &amp; Data Analysis journal.</p>
-<p>The repository can be found at: https://github.com/MateusMaiaDS/gpbart, and to install it only need to run:</p>
+<p>A R implementation, built on <span class="math inline">\(\texttt{C++}\)</span> and <span class="math inline">\(\texttt{Rcpp}\)</span>, extends the Bayesian Additive Regression Trees using Gaussian Processes. This extension was developed by myself, Keefe Murphy, and Andrew Parnell. Further details about the statistical model are presented in the paper titled: “GP-BART: A novel Bayesian additive regression trees approach using Gaussian processes,” published in the Computational &amp; Data Analysis journal.</p>
+<p>The repository can be found at: <a href="https://github.com/MateusMaiaDS/gpbart" class="uri">https://github.com/MateusMaiaDS/gpbart</a>, and to install it, you only need to run:</p>
 <div class="sourceCode" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>devtools<span class="sc">::</span><span class="fu">install_github</span>(<span class="st">"MateusMaiaDS/gpbart"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-</section>
-</section>
-<section id="r-shiny-applications" class="level1">
-<h1>R Shiny Applications</h1>
-<p>I have experience into the development of some dashboards and web applications using <span class="math inline">\(\texttt{shiny}\)</span> in <span class="math inline">\(\texttt{R}\)</span>. The examples below are part of works that I developed under the period of 2018 to 2020 using this tool.</p>
-<section id="textttshinyelectionsproject" class="level2">
-<h2 class="anchored" data-anchor-id="textttshinyelectionsproject"><span class="math inline">\(\texttt{shiny::electionsproject()}\)</span></h2>
 
 
 </section>
